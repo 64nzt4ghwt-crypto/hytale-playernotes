@@ -1,1 +1,1 @@
-# hytale-playernotes
+# PlayerNotes v1.0.0
